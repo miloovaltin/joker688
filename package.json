@@ -1,0 +1,17 @@
+
+{
+"name": "joker688",
+"theme": "joker688",
+"version": "2.2.3",
+"description": "joker688 สมัครสมาชิกเว็บคาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"joker688",
+"joker688 เครดิตฟรี",
+"joker688 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/joker688",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
